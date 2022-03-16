@@ -15,7 +15,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+
 
 ## Overview
 
@@ -24,10 +24,10 @@ QR code component responsive page created with HTML,CSS, and BootStrap. I finish
 ### Screenshot
 
 Desktop
-![Desktop](C:\Users\navya\Dropbox\Computers\Projects\qr-code-component-main\qr-code-component-main\images\Desktop.JPG)
+![Desktop](images\Desktop.JPG)
 
 Mobile
-![Mobile](C:\Users\navya\Dropbox\Computers\Projects\qr-code-component-main\qr-code-component-main\images\photo6163317918922813139.jpg)
+![Mobile](images\photo6163317918922813139.jpg)
 
 
 ### Links
