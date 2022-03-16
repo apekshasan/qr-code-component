@@ -24,10 +24,10 @@ QR code component responsive page created with HTML,CSS, and BootStrap. I finish
 ### Screenshot
 
 Desktop
-![Desktop](images\Desktop.JPG)
+![Desktop](C:\Users\navya\Dropbox\Computers\Projects\qr-code-component-main\qr-code-component-main\images\Desktop.JPG)
 
 Mobile
-![Mobile](images\photo6163317918922813139.jpg)
+![Mobile](C:\Users\navya\Dropbox\Computers\Projects\qr-code-component-main\qr-code-component-main\images\photo6163317918922813139.jpg)
 
 
 ### Links
