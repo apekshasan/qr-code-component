@@ -11,7 +11,7 @@
 
 
 @media  screen and (min-width: 375px) {
-   .col-xs-12 {
+   .card {
      width: 100%;
    }
 }
