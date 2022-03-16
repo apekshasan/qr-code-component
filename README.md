@@ -29,8 +29,8 @@ Desktop
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/apekshasan/qr-code-component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://github.com/apekshasan/qr-code-component)
+- Live Site URL: [Live site](https://a-qr-code-component.netlify.app/)
 
 ## My process
 
