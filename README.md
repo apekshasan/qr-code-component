@@ -24,7 +24,10 @@ QR code component responsive page created with HTML,CSS, and BootStrap. I finish
 ### Screenshot
 
 Desktop
-![](images\Desktop.JPG)
+![Desktop](images\Desktop.JPG)
+
+Mobile
+![Mobile](images\photo6163317918922813139.jpg)
 
 
 ### Links
