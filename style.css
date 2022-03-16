@@ -11,7 +11,7 @@
 
 
 @media  screen and (max-width: 375px) {
-   .col-12 {
+   .col-xs-12 {
      width: 100%;
    }
 }
